@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CityCars.Domain/CityCarss.Domain.csproj" />
+  <Project Path="CityCarss.API/CityCarss.API.csproj" />
+  <Project Path="CityCarss.Application/CityCarss.Application.csproj" />
+  <Project Path="CityCarss.Infrastructure/CityCarss.Infrastructure.csproj" />
+  <Project Path="CityCarss.Persistence/CityCarss.Persistence.csproj" />
+</Solution>
